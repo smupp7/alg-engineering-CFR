@@ -1,0 +1,38 @@
+[
+  {
+    "method": "Baseline",
+    "compression": 1.0893246187363834,
+    "iterations": 100,
+    "final_exploit": 0.0006494888017556001
+  },
+  {
+    "method": "Farina-A",
+    "compression": 10.556545850663497,
+    "iterations": 100,
+    "final_exploit": 0.0006494888017556028
+  },
+  {
+    "method": "Farina-B",
+    "compression": 9.74450386215092,
+    "iterations": 100,
+    "final_exploit": 0.000649488801755596
+  },
+  {
+    "method": "Zhang-r2",
+    "compression": 8.615567439096852,
+    "iterations": 100,
+    "final_exploit": 0.0006494888017555967
+  },
+  {
+    "method": "Threshold-0.2",
+    "compression": 5.822935234699941,
+    "iterations": 100,
+    "final_exploit": 0.0006494888017556001
+  },
+  {
+    "method": "Random-20%",
+    "compression": 1.2081600316894434,
+    "iterations": 100,
+    "final_exploit": 0.00010192659007984904
+  }
+]

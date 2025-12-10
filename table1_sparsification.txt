@@ -1,0 +1,34 @@
+======================================================================
+TABLE 1: Sparsification Method Comparison (Leduc Poker)
+======================================================================
+Method                   Compression   Iterations   Time (s)   Final Exploit
+----------------------------------------------------------------------
+Baseline                        1.1%          100      0.002        0.000649
+Farina-A                       10.6%          100      0.003        0.000649
+Farina-B                        9.7%          100      0.021        0.000649
+Zhang-r2                        8.6%          100      0.002        0.000649
+Threshold-0.2                   5.8%          100      0.002        0.000649
+Random-20%                      1.2%          100      0.002        0.000102
+----------------------------------------------------------------------
+
+Structured Methods:
+  Average compression: 8.7%
+  Average iterations:  100
+
+Random Baseline:
+  Performance: 1.00× slower
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
